@@ -1,0 +1,17 @@
+NAME : C-10-4
+DIMENSION : 10
+VEHICLE NUMBER : 5
+VEHICLE CAPACITY : 70
+MAX POD NUMBER : 2
+CUST NO.   XCOORD.   YCOORD.   DEMAND    READY TIME   DUE DATE   SERVICE TIME
+    0      40         50          0          0        960          0   
+    1      25         85         20          0        911         10   
+    2      22         75         30          0        919         10   
+    3      22         85         10          0        910         10   
+    4      20         80         40        644        764         10   
+    5      20         85         20          0        909         10   
+    6      18         75         20        388        508         10   
+    7      15         75         20          0        914         10   
+    8      15         80         10        367        487         10   
+    9      10         35         20        371        491         10   
+   10      10         40         30        519        639         10   
