@@ -19,7 +19,7 @@ The project is developed using Java 1.8.0. Some parts of the code require the CP
 The code related to our data processing and algorithm includes:
 
 - **analysis** - Code used to generate figures.
-- **algorithm** - Code for the TS algorithm and MILP model for the MVRPTW. To run the algorithm, use "src/Main/Run". To run the MILP models, use "src/MIL/Run2".
+- **algorithm** - Code for the TS algorithm and MILP model for the MVRPTW. To run the algorithm, use "src/Main/Run". To run the MILP models, use "src/MIP/Run2".
 
 As you proceed through all code, always verify the paths for both the input and output files. This ensures that everything runs smoothly.
 
